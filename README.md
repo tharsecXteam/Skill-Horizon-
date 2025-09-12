@@ -1,5 +1,5 @@
 # Skill-Horizon-
-# Assignment 01 – Subdomain Enumeration
+# Internship Assignment 01 – Subdomain Enumeration
 
 ## 🎯 OBJECTIVE
 
